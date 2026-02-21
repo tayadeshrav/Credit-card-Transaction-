@@ -15,10 +15,10 @@ The insights help financial institutions improve portfolio profitability and cus
 - Excel
 
 4. Methodology
-1. Data cleaning (handled nulls, standardized formats)
-2. SQL-based aggregation for KPIs
-3. Visualization of revenue trends, card performance, and customer segmentation
-4. Insights generation
+ Data cleaning (handled nulls, standardized formats)
+ SQL-based aggregation for KPIs
+ Visualization of revenue trends, card performance, and customer segmentation
+ Insights generation
 
 5. Key Insights
 - Bills, Entertainment, and Fuel are top expense categories.
