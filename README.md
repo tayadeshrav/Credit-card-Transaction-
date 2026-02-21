@@ -15,12 +15,13 @@ The insights help financial institutions improve portfolio profitability and cus
 - Excel
 
 4. Methodology
- Data cleaning (handled nulls, standardized formats)
- SQL-based aggregation for KPIs
- Visualization of revenue trends, card performance, and customer segmentation
- Insights generation
 
-5. Key Insights
+- Data cleaning (handled nulls, standardized formats)
+- SQL-based aggregation for KPIs
+- Visualization of revenue trends, card performance, and customer segmentation
+- Insights generation
+
+6. Key Insights
 - Bills, Entertainment, and Fuel are top expense categories.
 - Chip transactions dominate (63.1%), online usage minimal.
 - Blue Card generates the highest revenue, interest, and late fees.
