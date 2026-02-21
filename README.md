@@ -2,13 +2,12 @@
 
 1. Project Overview
 This project analyzes credit card transaction data to identify customer spending patterns, card category performance, and quarterly revenue trends.
-
 The insights help financial institutions improve portfolio profitability and customer engagement.
 
 3. Dataset
 - Source: Kaggle
 - Size: 10,000+ rows
-- Key Columns: customer_id, transaction_amount, card_category, expense_type, revenue, interest
+- Key Columns: Client_num, Gender, card_category, customer_job, income
 
 ## Tools & Technologies
 - SQL
