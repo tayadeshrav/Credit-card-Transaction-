@@ -28,3 +28,5 @@ The insights help financial institutions improve portfolio profitability and cus
 - Businessmen and white-collar professionals are the largest contributors.
 - Educated customers show higher credit card usage.
 - Q3 and Q4 are peak revenue periods.
+
+Dashbord  https://github.com/tayadeshrav/Credit-card-Transaction-/blob/main/dashbord.png
